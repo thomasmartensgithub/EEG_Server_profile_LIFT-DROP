@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  ArduinoTestProject56.cpp
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  ArduinoTestProject56.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ArduinoTestProject56.vcxproj -> C:\Users\Thomas Martens\source\repos\ArduinoTestProject56\Debug\ArduinoTestProject56.exe

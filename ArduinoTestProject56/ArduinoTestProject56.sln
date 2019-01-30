@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoTestProject56", "ArduinoTestProject56\ArduinoTestProject56.vcxproj", "{BEB6E50E-892E-4026-907C-C3FF3B387C88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MentalCommandWithCloudProfile", "D:\Studie\Poging 2\community-sdk-master\community-sdk-master\examples_basic\C++\MentalCommandWithCloudProfile\MentalCommandWithCloudProfile.vcxproj", "{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Debug|x64.ActiveCfg = Debug|x64
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Debug|x64.Build.0 = Debug|x64
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Debug|x86.Build.0 = Debug|Win32
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Release|x64.ActiveCfg = Release|x64
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Release|x64.Build.0 = Release|x64
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Release|x86.ActiveCfg = Release|Win32
+		{BEB6E50E-892E-4026-907C-C3FF3B387C88}.Release|x86.Build.0 = Release|Win32
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Debug|x64.ActiveCfg = Debug|x64
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Debug|x64.Build.0 = Debug|x64
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Debug|x86.Build.0 = Debug|Win32
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Release|x64.ActiveCfg = Release|x64
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Release|x64.Build.0 = Release|x64
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Release|x86.ActiveCfg = Release|Win32
+		{A4189FCE-9F74-4486-80FB-7AD3B1385B0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B5F2D56-E23C-4A0C-B285-42D37CF1D641}
+	EndGlobalSection
+EndGlobal
